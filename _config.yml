@@ -1,0 +1,28 @@
+name: InnerTravelCoaching
+favicon: null
+layout_spectrum: 0.1539404324721545
+typography_spectrum: 0.7912942501716316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2902608329895884
+  lightness: 0.007961639203131199
+  saturation: 0.3481722993310541
+  rhythmicContrast: 0.9260704657062888
+purpose: []
