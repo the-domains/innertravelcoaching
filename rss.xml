@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[InnerTravelCoaching]]></title>
+        <description><![CDATA[InnerTravelCoaching]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Dec 2015 06:20:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Write A Bhavana]]></title>
+            <description><![CDATA[<article><h1>How To Write A Bhavana</h1><p>this is where I would insert the text</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/feae0ea5-b46c-4d56-9376-6bf3baab6529.jpg"></article>]]></description>
+            <link>undefinedhow-to-write-a-bhavana/index.html</link>
+            <guid isPermaLink="false">70adf75b-33fc-4464-9bd9-a202afe7bc19</guid>
+            <pubDate>Sun, 27 Dec 2015 06:20:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
